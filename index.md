@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP security Knowledge Framework
-tags: skf owasp-skf secure code labs
+tags: skf
 level: 4
 url: "https://www2.owasp.org/www-project-security-knowledge-framework/"
 
