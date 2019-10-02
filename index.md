@@ -11,9 +11,9 @@ url: "https://www2.owasp.org/www-project-security-knowledge-framework/"
 
 ## Project status details:
 [![Build Travis CI Master](https://travis-ci.org/blabla1337/skf-flask.svg?branch=master)](https://travis-ci.org/blabla1337/skf-flask)
-[![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](https://badges.gitter.im/Security-Knowledge-Framework/Lobby.svg)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Join the chat at https://owasp.slack.com/messages/C0F7L9X6V](https://img.shields.io/badge/chat-on%20slack-blueviolet)](https://owasp.slack.com/messages/C0F7L9X6V)
-[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-orange.svg)](https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework)
+[![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](assets/images/Lobby.png)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://owasp.slack.com/messages/C0F7L9X6V](assets/images/chat-on-slack.png)](https://owasp.slack.com/messages/C0F7L9X6V)
+[![OWASP Flagship](assets/images/owasp-flagship.png)](https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework)
 
 ## Quality testing:
 [![Known Vulnerabilities](https://snyk.io/test/github/blabla1337/skf-flask/badge.svg)](https://snyk.io/test/github/blabla1337/skf-flask)

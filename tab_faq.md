@@ -9,8 +9,8 @@ tags: skf
 ## Project FAQ
 
 If you have any questions about OWASP-SKF or issues when using or deploying then please join us in the Gitter or Slack chats that we are active on:
-[![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](https://badges.gitter.im/Security-Knowledge-Framework/Lobby.svg)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Join the chat at https://owasp.slack.com/messages/C0F7L9X6V](https://img.shields.io/badge/chat-on%20slack-blueviolet)](https://owasp.slack.com/messages/C0F7L9X6V)
+[![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](assets/images/Lobby.png)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://owasp.slack.com/messages/C0F7L9X6V](assets/images/chat-on-lack.png)](https://owasp.slack.com/messages/C0F7L9X6V)
 
 Also for dropping feedback and discussing improvements we are happily to have a discussion about it!
 
