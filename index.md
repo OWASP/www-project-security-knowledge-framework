@@ -1,19 +1,38 @@
 ---
 
 layout: col-sidebar
-title: OWASP security knowledge framework
-tags: example-tag
+title: OWASP security Knowledge Framework
+tags: skf owasp-skf secure code labs
 level: 4
+url: "https://www2.owasp.org/www-project-security-knowledge-framework/"
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# OWASP Security Knowledge Framework
+[![SKF Logo](https://www.securityknowledgeframework.org/img/banner-wiki-owasp.jpg)](https://www.securityknowledgeframework.org/) 
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+<br>Project status details:<br>
+[![Build Travis CI Master](https://travis-ci.org/blabla1337/skf-flask.svg?branch=master)](https://travis-ci.org/blabla1337/skf-flask)
+[![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](https://badges.gitter.im/Security-Knowledge-Framework/Lobby.svg)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://owasp.slack.com/messages/C0F7L9X6V](https://img.shields.io/badge/chat-on%20slack-blueviolet)](https://owasp.slack.com/messages/C0F7L9X6V)
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-orange.svg)](https://www.owasp.org/index.php/OWASP_Security_Knowledge_Framework)
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+<br>Quality testing:<br>
+[![Known Vulnerabilities](https://snyk.io/test/github/blabla1337/skf-flask/badge.svg)](https://snyk.io/test/github/blabla1337/skf-flask)
+[![Coverage Status](https://coveralls.io/repos/blabla1337/skf-flask/badge.svg?branch=master)](https://coveralls.io/repos/blabla1337/skf-flask/badge.svg?branch=master)
+[![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/blabla1337/skf-flask/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/blabla1337/skf-flask/branches/master)
+[![Requirements Status](https://requires.io/github/blabla1337/skf-flask/requirements.svg?branch=master)](https://requires.io/github/blabla1337/skf-flask/requirements/?branch=master)
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## What is SKF?
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+Over 15 years of experience in web application security bundled into a single application. The Security Knowledge Framework is a vital asset to the coding toolkit of your development team. Use SKF to learn and integrate security by design in your web application.
 
+SKF is an open source security knowledgebase including manageble projects with checklists and best practice code examples in multiple programming languages showing you how to prevent hackers gaining access and running exploits on your application.
+
+## In a nutshell
+- Training your developers in writing secure code
+- Security by design, early feedback of possible security issues
+- Code examples for secure coding guidance
+- Knowledge base items for deeper understanding of the security controls
+-  Security labs to improve your verification skills
+- Machine learning chatbot for easy support

@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Glenn ten Cate](mailto://glenn.ten.cate@owasp.org)
+* [Riccardo ten Cate](mailto://riccardo.ten.cate@owasp.org)
+
