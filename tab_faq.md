@@ -3,7 +3,7 @@ title: FAQ
 layout: null
 tab: true
 order: 2
-tags: faq questions help
+tags: faq
 ---
 
 ## Project FAQ
