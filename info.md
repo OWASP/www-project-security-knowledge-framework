@@ -1,5 +1,3 @@
-### security knowledge framework Information
-
 ### Classification
 
 <img src="assets/images/Mature_projects.png" width="100" alt="Flagship">
