@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP security Knowledge Framework
 tags: skf
 level: 4
+type: tool
 url: "https://www2.owasp.org/www-project-security-knowledge-framework/"
 
 ---
