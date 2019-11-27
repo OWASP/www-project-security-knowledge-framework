@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP security Knowledge Framework
+title: OWASP Security Knowledge Framework
 tags: skf
 level: 4
 type: tool
