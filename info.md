@@ -1,41 +1,11 @@
-### Classification
+### Project Information
+<!--* Project Level-->
+<!--* Project Type
+* Version, etc-->
 
-<img src="assets/images/Mature_projects.png" width="100" alt="Flagship">
-<br>
-<img src="assets/images/Owasp-builders-small.png" width="100" alt="Builder">
-<br>
-<img src="assets/images/Owasp-breakers-small.png" width="100" alt="Breaker">
-<br>
-<img src="assets/images/Owasp-defenders-small.png" width="100" alt="Defender">
-<br>
-<img src="assets/images/Project_Type_Files_DOC.jpg" width="150" alt="Defender">
-<br>
+### Downloads or Social Links
+<!--* [Download](#)
+* [Social Link](#)-->
 
-### Online Demo OWASP-SKF
-
-- [OWASP-SKF Online Demo](https://demo.securityknowledgeframework.org "OWASP-SKF Online Demo")
-- username: admin
-- password: test-skf
-
-### Github Repository
-
-- [OWASP-SKF repo](https://github.com/blabla1337/skf-flask "OWASP-SKF repo")
-
-### Changelog
-
-- [Latest Changelog OWASP-SKF](https://github.com/blabla1337/skf-flask/releases "OWASP-SKF changelog")
-
-### Leaders
-* [Glenn ten Cate](mailto://glenn.ten.cate@owasp.org)
-* [Riccardo ten Cate](mailto://riccardo.ten.cate@owasp.org)
-
-### Getting involved
-
-- [Contributing to OWASP-SKF](https://github.com/blabla1337/skf-flask/blob/master/CONTRIBUTING.md)
-
-### Licensing
-
-The OWASP-SKF is licensed under the
-GNU Affero General Public License v3.0
-
-Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
+### Code Repository
+<!--* [repo](#)-->
