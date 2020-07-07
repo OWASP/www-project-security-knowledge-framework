@@ -25,7 +25,7 @@ url: "https://www2.owasp.org/www-project-security-knowledge-framework/"
 
 Over 15 years of experience in web application security bundled into a single application. The Security Knowledge Framework is a vital asset to the coding toolkit of your development team. Use SKF to learn and integrate security by design in your web application.
 
-SKF is an open source security knowledgebase including manageble projects with checklists and best practice code examples in multiple programming languages showing you how to prevent hackers gaining access and running exploits on your application.
+SKF is an open source security knowledgebase including manageable projects with checklists and best practice code examples in multiple programming languages showing you how to prevent hackers gaining access and running exploits on your application.
 
 ## In a nutshell
 - Training your developers in writing secure code
