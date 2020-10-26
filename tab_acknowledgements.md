@@ -25,9 +25,8 @@ As a penetration tester from the Netherlands employed at Zerocopter Riccardo spe
 Contributors have contributed quality content and are logged in the GitHub repository. A Big thank you for their effort!
 
 ## <a name="contributors"></a>Contributors
-- [Glenn ten Cate](https://www.linkedin.com/in/glenn-ten-cate-11711a3b/)
-- [Riccardo ten Cate](https://www.linkedin.com/in/riccardo-ten-cate-a0b79780/)
-- Lucas Luitjes
+- [Glenn ten Cate](https://twitter.com/FooBar_testing_)
+- [Riccardo ten Cate](https://twitter.com/RiieCco)
 - [Mattijs van Ommeren](https://twitter.com/alcyonsecurity)
 - [Alexander Kaasjager](https://twitter.com/akaasjager)
 - John Haley
@@ -68,4 +67,11 @@ Contributors have contributed quality content and are logged in the GitHub repos
 - Aniket Surwade
 - Thiago Luiz Dimbarre
 - Harshant Sharma
+- Lucas Luitjes
 - Semen Rozhkov
+- Mehtab Zafar 
+- Daniel Spilsbury
+- Akash M
+- Tess Sluijter
+- Xavier Rene-Corail
+- David Wheeler
