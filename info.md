@@ -13,7 +13,7 @@
 
 ### Online Demo OWASP-SKF
 
-- [OWASP-SKF Online Demo](https://beta.securityknowledgeframework.org "OWASP-SKF Online Demo")
+- [OWASP-SKF Online Demo](https://securityknowledgeframework.org/demo.php "OWASP-SKF Online Demo")
 - username: admin
 - password: test-skf
 
