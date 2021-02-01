@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Security Knowledge Framework
 tags: skf
 level: 4
-url: "https://www2.owasp.org/www-project-security-knowledge-framework/"
+url: "https://owasp.org/www-project-security-knowledge-framework/"
 
 ---
 [![SKF Logo](https://www.securityknowledgeframework.org/img/banner-wiki-owasp.jpg)](https://www.securityknowledgeframework.org/) 
