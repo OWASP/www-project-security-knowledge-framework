@@ -7,7 +7,7 @@ level: 4
 url: "https://owasp.org/www-project-security-knowledge-framework/"
 
 ---
-[![SKF Logo](https://www.securityknowledgeframework.org/images/site-skf/logos/logo.svg)](https://www.securityknowledgeframework.org/) 
+[![SKF Logo](https://www.securityknowledgeframework.org/images/site-skf/logos/logo.svg)](https://www.securityknowledgeframework.org/){:width="200px"}
 
 <br>Project status details:<br>
 [![Join the chat at https://gitter.im/Security-Knowledge-Framework/Lobby](https://badges.gitter.im/Security-Knowledge-Framework/Lobby.svg)](https://gitter.im/Security-Knowledge-Framework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
