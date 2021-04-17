@@ -1,15 +1,12 @@
-### Classification
+### Project Classification
 
-<img src="assets/images/Mature_projects.png" width="100" alt="Flagship">
-<br>
-<img src="assets/images/Owasp-builders-small.png" width="100" alt="Builder">
-<br>
-<img src="assets/images/Owasp-breakers-small.png" width="100" alt="Breaker">
-<br>
-<img src="assets/images/Owasp-defenders-small.png" width="100" alt="Defender">
-<br>
-<img src="assets/images/Project_Type_Files_DOC.jpg" width="150" alt="Defender">
-<br>
+![Flagship Project](/assets/images/common/owasp_level_flagship.svg "Flagship Project")
+
+![Builders](/assets/images/common/owasp_builders.svg)
+![Breaker](/assets/images/common/owasp_breakers.svg)
+![Defenders](assets/images/common/owasp_defenders.svg)
+
+![Tool Project](/assets/images/common/owasp_tool_project.svg)
 
 ### Online Demo OWASP-SKF
 
