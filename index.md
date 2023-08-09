@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Archived Security Knowledge Framework
+title: Security Knowledge Framework
 tags: skf
 project: true
 level: 4
